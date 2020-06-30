@@ -1,0 +1,7 @@
+{
+  "calc_text": "Calculator",
+  "calc_error_nul_text": "The number cannot be lower than zero",
+  "calc_error_more_text": "The number cannot be more than one hundred",
+  "left_menu_text": "Left menu",
+  "right_menu_text": "Right menu"
+}

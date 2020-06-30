@@ -1,0 +1,7 @@
+{
+  "calc_text": "Калькулятор",
+  "calc_error_nul_text": "Число не може бути нижче нуля",
+  "calc_error_more_text": "Число не може бути більше ста",
+  "left_menu_text": "Ліве меню",
+  "right_menu_text": "Праве меню"
+}
